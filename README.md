@@ -40,7 +40,7 @@ Want to try this out yourself? Here's how:
    ```
 
 3. **Run the Code**  
-   The main notebook is `try-vae-1-5-1.ipynb`.  
+   The main notebook is `cae-cough-resp.ipynb`.  
    Run it top to bottom — it handles:
    - Downloading data
    - Training the model
